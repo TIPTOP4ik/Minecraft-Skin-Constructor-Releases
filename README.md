@@ -1,6 +1,6 @@
 # Minecraft Skin Constructor
 
-A small desktop app to preview Minecraft skins in **2D** and **3D**, rotate the model, and build a final skin by stacking **PNG overlays**.
+A small desktop app to build Minecraft skins by stacking **PNG overlays**.
 
 ## Download
 ➡️ **[Download latest release](../../releases/latest/download/SkinConstructor-v1.0.0-win64.zip)**
